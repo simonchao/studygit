@@ -1,0 +1,42 @@
+* TODO 英语学习计划
+  DEADLINE: <2018-05-01 周二> SCHEDULED: <2017-01-20 周五>
+** TODO 基础
+*** TODO 发音 [0/10]
+    DEADLINE: <2017-01-23 周一> SCHEDULED: <2017-01-20 周五>
+    - [ ] 初级发音01，one hour 
+    - [ ] 初级发音02，one hour
+    - [ ] 初级发音03，one hour
+    - [ ] 初级发音04，one hour and fourty eight minutes
+    - [ ] 初级发音05，one hour
+    - [ ] 初级发音06，one hour and fifty six minutes
+    - [ ] 初级发音07，one hour
+    - [ ] 初级发音08，one hour
+    - [ ] 初级发音09，one hour and fourty minutes
+    - [ ] 初级发音10，one hour
+
+*** TODO 新概念英语第一册[0/12]
+    DEADLINE: <2017-02-17 周五> SCHEDULED: <2017-02-06 周一>
+    - [ ] Lesson01-12
+    - [ ] Lesson13-24
+    - [ ] Lesson25-36
+    - [ ] Lesson37-48
+    - [ ] Lesson49-60
+    - [ ] Lesson61-72
+    - [ ] Lesson73-84
+    - [ ] Lesson85-96
+    - [ ] Lesson97-108
+    - [ ] Lesson109-120
+    - [ ] Lesson121-132
+    - [ ] Lesson133-144
+*** 语法中级
+
+*** 新概念英语第二册
+*** 语法高级
+*** 新概念英语第三册
+*** GRE，托福
+
+** 专项
+*** 听
+*** 说
+*** 读
+*** 写
